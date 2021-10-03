@@ -1,5 +1,5 @@
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/weslem-wrs">
+<div align="center">
+  <a href="https://github.com/weslem-wrs" style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslem-wrs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslem-wrs&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
