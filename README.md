@@ -9,7 +9,7 @@
   <img align="center" alt="Weslem-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Weslem-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weslem-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Weslem-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/862458109384196106/894261692714852443/unnamed.png?width=676&height=676">
+  <img align="right" alt="Weslem-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/862458109384196106/894266430768422952/173830_T6qcMd1J.png?width=676&height=676">
 </div>
   
   ##
