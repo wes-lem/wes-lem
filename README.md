@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+<div align="center">
   <a href="https://github.com/wes-lem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wes-lem&locale=pt-br&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-lem&layout=compact&langs_count=7&locale=pt-br&theme=ambient_gradient"/>
