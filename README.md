@@ -2,7 +2,7 @@
   <a href="https://github.com/wes-lem">
     <img alt="Weslem-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/862458109384196106/894266430768422952/173830_T6qcMd1J.png?width=676&height=676">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslem-wrs&locale=pt-br&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-lem&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-lem&layout=compact&langs_count=7&theme=ambient_gradient"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
