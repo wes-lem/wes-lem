@@ -17,7 +17,6 @@
   <img align="center" alt="Weslem-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Weslem-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Weslem-FastAPI" height="30" width="40" src="https://fastapi.tiangolo.com/img/icon-white.svg">
-  <img align="center" alt="Weslem-Jinja2" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Jinja_Logo.svg">
 </div>
   
   ##
