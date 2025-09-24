@@ -8,11 +8,10 @@ Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em solu�
 - **Mobile** com foco em experiências intuitivas
 - **Web Design** com olhar em usabilidade e estética
 
-💡 Sempre em busca de aprender algo novo e contribuir com projetos que façam a diferença!
-
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wes-lem&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-lem&layout=compact&langs_count=7&locale=pt-br&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wes-lem&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-lem&layout=compact&langs_count=7&locale=pt-br&theme=react"/>
+  <br> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wes-lem&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ## 🛠️ Tecnologias
