@@ -11,9 +11,6 @@ Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em solu�
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wes-lem&locale=pt-br&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-lem&layout=compact&langs_count=7&locale=pt-br&theme=react"/>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-  
 </p>
 
 ## 🛠️ Tecnologias
