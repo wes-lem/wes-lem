@@ -40,7 +40,7 @@ Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em soluÃ
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-![Electron](https.img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## ðŸ“¬ Contatos
