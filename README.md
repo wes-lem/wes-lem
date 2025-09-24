@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Weslem!
+## 👋 Olá, meu nome é Weslem!
 
 Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções reais. Atualmente, sou **freelancer** e também **bolsista em um projeto de sistema educacional** pela minha faculdade. Estou cursando **Análise e Desenvolvimento de Sistemas no IFCE – campus Boa Viagem**.
 
